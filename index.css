@@ -1,0 +1,17 @@
+body{
+    background-color: rgba(85, 81, 81, 0.76);
+}
+.Nav_bar_image{
+    display: flex;
+    justify-content: center;
+}
+.navbar{
+    z-index: 1;
+}
+.carousel-item >img{
+    height: 600px;
+    width: 600px;
+}
+.dishes_headding{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
